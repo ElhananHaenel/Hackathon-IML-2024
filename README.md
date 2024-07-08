@@ -1,6 +1,5 @@
 # Hackathon 2024 - Optimizing Public Transportation Routes
 
-**Introduction to Machine Learning (67577) - Challenge 1**
 
 **HU.BER**
 
